@@ -1,2 +1,2 @@
 # SimpleAR
-CST 3140 - Novel Interactive Technologies Coursework
+CST 3140 - Augmented Reality Coursework
